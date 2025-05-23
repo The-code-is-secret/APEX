@@ -1,0 +1,4 @@
+.env
+server/extracted/
+docker-compose.yaml
+uploads
